@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  background: url(https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/37f41345e8d3c6e0e077335b972a1882/photo-1614999440385-acc897b5e97b.jpg);
+  background-position: center;
+  min-height: 100vh;
+}
+
+.MuiNativeSelect-select.MuiNativeSelect-select {
+  padding-right: 0 !important;
+}
+
+.listEditForm .MuiInputLabel-outlined {
+  transform: translate(14px, 9px) scale(1);
+}
+
+.listEditForm .MuiOutlinedInput-multiline {
+  padding: 10px;
+  padding-bottom: 8px;
+}
